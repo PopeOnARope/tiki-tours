@@ -30,8 +30,11 @@ $heart: #fb866a;
     Promo Styles
 */
 
-.about .intro {
-  margin: initial;
+.about {
+  text-align: center;
+  .intro {
+    margin: initial;
+  }
 }
 
 .promo .intro {

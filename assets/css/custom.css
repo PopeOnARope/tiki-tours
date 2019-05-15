@@ -12,8 +12,10 @@
 /* 
     Promo Styles
 */
-.about .intro {
-  margin: initial; }
+.about {
+  text-align: center; }
+  .about .intro {
+    margin: initial; }
 
 .promo .intro {
   margin-bottom: 10px; }
